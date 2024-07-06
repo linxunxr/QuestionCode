@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2001CPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "003A+B3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-003A+B3-Debug-a74092078978da835983.json",
+					"name" : "003A+B3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "004A+B4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-004A+B4-Debug-8b0277ce7511793af966.json",
+					"name" : "004A+B4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "005A+B5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-005A+B5-Debug-1ac122bc528b598deea6.json",
+					"name" : "005A+B5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "006A+B6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-006A+B6-Debug-7a848c2463ea337b8997.json",
+					"name" : "006A+B6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "007A+B7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-007A+B7-Debug-3a03cca2925b68faff6b.json",
+					"name" : "007A+B7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "008StringSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-008StringSort-Debug-bdf38d95a14ffec7089c.json",
+					"name" : "008StringSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "009StringSort2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-009StringSort2-Debug-a86dbd1f5352c9459636.json",
+					"name" : "009StringSort2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "010StringSort3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-010StringSort3-Debug-c8f1a471bd4db270025c.json",
+					"name" : "010StringSort3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "011LongLong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-011LongLong-Debug-5af16a7eee307e446f9a.json",
+					"name" : "011LongLong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ1-Debug-390f9fc92d44b31a4955.json",
+					"name" : "HJ1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ2-Debug-d9ef74b5c9ed503423e9.json",
+					"name" : "HJ2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ3-Debug-7394e8e3120f7277d8c7.json",
+					"name" : "HJ3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ4-Debug-931b31d3a961ee5754fe.json",
+					"name" : "HJ4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ5-Debug-c3a159d1d06d4b540bb9.json",
+					"name" : "HJ5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HJ6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HJ6-Debug-d2cad33136abd27be884.json",
+					"name" : "HJ6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-c60cae4220237af10dd5.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug",
+		"source" : "D:/200work/2000Code/QuestionCode/2001CPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
