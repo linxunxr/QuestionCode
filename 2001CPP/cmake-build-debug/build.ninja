@@ -568,6 +568,270 @@ build HJ6.exe: CXX_EXECUTABLE_LINKER__HJ6_Debug CMakeFiles/HJ6.dir/01Hj/HJ6.cpp.
   TARGET_IMPLIB = libHJ6.dll.a
   TARGET_PDB = HJ6.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ7
+
+
+#############################################
+# Order-only phony target for HJ7
+
+build cmake_object_order_depends_target_HJ7: phony || CMakeFiles/HJ7.dir
+
+build CMakeFiles/HJ7.dir/01Hj/HJ7.cpp.obj: CXX_COMPILER__HJ7_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ7.cpp || cmake_object_order_depends_target_HJ7
+  DEP_FILE = CMakeFiles\HJ7.dir\01Hj\HJ7.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ7.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ7.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ7
+
+
+#############################################
+# Link the executable HJ7.exe
+
+build HJ7.exe: CXX_EXECUTABLE_LINKER__HJ7_Debug CMakeFiles/HJ7.dir/01Hj/HJ7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ7.exe
+  TARGET_IMPLIB = libHJ7.dll.a
+  TARGET_PDB = HJ7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ8
+
+
+#############################################
+# Order-only phony target for HJ8
+
+build cmake_object_order_depends_target_HJ8: phony || CMakeFiles/HJ8.dir
+
+build CMakeFiles/HJ8.dir/01Hj/HJ8.cpp.obj: CXX_COMPILER__HJ8_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ8.cpp || cmake_object_order_depends_target_HJ8
+  DEP_FILE = CMakeFiles\HJ8.dir\01Hj\HJ8.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ8.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ8.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ8
+
+
+#############################################
+# Link the executable HJ8.exe
+
+build HJ8.exe: CXX_EXECUTABLE_LINKER__HJ8_Debug CMakeFiles/HJ8.dir/01Hj/HJ8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ8.exe
+  TARGET_IMPLIB = libHJ8.dll.a
+  TARGET_PDB = HJ8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ9
+
+
+#############################################
+# Order-only phony target for HJ9
+
+build cmake_object_order_depends_target_HJ9: phony || CMakeFiles/HJ9.dir
+
+build CMakeFiles/HJ9.dir/01Hj/HJ9.cpp.obj: CXX_COMPILER__HJ9_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ9.cpp || cmake_object_order_depends_target_HJ9
+  DEP_FILE = CMakeFiles\HJ9.dir\01Hj\HJ9.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ9.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ9.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ9
+
+
+#############################################
+# Link the executable HJ9.exe
+
+build HJ9.exe: CXX_EXECUTABLE_LINKER__HJ9_Debug CMakeFiles/HJ9.dir/01Hj/HJ9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ9.exe
+  TARGET_IMPLIB = libHJ9.dll.a
+  TARGET_PDB = HJ9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ10
+
+
+#############################################
+# Order-only phony target for HJ10
+
+build cmake_object_order_depends_target_HJ10: phony || CMakeFiles/HJ10.dir
+
+build CMakeFiles/HJ10.dir/01Hj/HJ10.cpp.obj: CXX_COMPILER__HJ10_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ10.cpp || cmake_object_order_depends_target_HJ10
+  DEP_FILE = CMakeFiles\HJ10.dir\01Hj\HJ10.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ10.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ10.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ10
+
+
+#############################################
+# Link the executable HJ10.exe
+
+build HJ10.exe: CXX_EXECUTABLE_LINKER__HJ10_Debug CMakeFiles/HJ10.dir/01Hj/HJ10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ10.exe
+  TARGET_IMPLIB = libHJ10.dll.a
+  TARGET_PDB = HJ10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ11
+
+
+#############################################
+# Order-only phony target for HJ11
+
+build cmake_object_order_depends_target_HJ11: phony || CMakeFiles/HJ11.dir
+
+build CMakeFiles/HJ11.dir/01Hj/HJ11.cpp.obj: CXX_COMPILER__HJ11_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ11.cpp || cmake_object_order_depends_target_HJ11
+  DEP_FILE = CMakeFiles\HJ11.dir\01Hj\HJ11.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ11.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ11.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ11
+
+
+#############################################
+# Link the executable HJ11.exe
+
+build HJ11.exe: CXX_EXECUTABLE_LINKER__HJ11_Debug CMakeFiles/HJ11.dir/01Hj/HJ11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ11.exe
+  TARGET_IMPLIB = libHJ11.dll.a
+  TARGET_PDB = HJ11.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ13
+
+
+#############################################
+# Order-only phony target for HJ13
+
+build cmake_object_order_depends_target_HJ13: phony || CMakeFiles/HJ13.dir
+
+build CMakeFiles/HJ13.dir/01Hj/HJ13.cpp.obj: CXX_COMPILER__HJ13_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ13.cpp || cmake_object_order_depends_target_HJ13
+  DEP_FILE = CMakeFiles\HJ13.dir\01Hj\HJ13.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ13.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ13.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ13
+
+
+#############################################
+# Link the executable HJ13.exe
+
+build HJ13.exe: CXX_EXECUTABLE_LINKER__HJ13_Debug CMakeFiles/HJ13.dir/01Hj/HJ13.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ13.exe
+  TARGET_IMPLIB = libHJ13.dll.a
+  TARGET_PDB = HJ13.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ14
+
+
+#############################################
+# Order-only phony target for HJ14
+
+build cmake_object_order_depends_target_HJ14: phony || CMakeFiles/HJ14.dir
+
+build CMakeFiles/HJ14.dir/01Hj/HJ14.cpp.obj: CXX_COMPILER__HJ14_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ14.cpp || cmake_object_order_depends_target_HJ14
+  DEP_FILE = CMakeFiles\HJ14.dir\01Hj\HJ14.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ14.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ14.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ14
+
+
+#############################################
+# Link the executable HJ14.exe
+
+build HJ14.exe: CXX_EXECUTABLE_LINKER__HJ14_Debug CMakeFiles/HJ14.dir/01Hj/HJ14.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ14.exe
+  TARGET_IMPLIB = libHJ14.dll.a
+  TARGET_PDB = HJ14.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ15
+
+
+#############################################
+# Order-only phony target for HJ15
+
+build cmake_object_order_depends_target_HJ15: phony || CMakeFiles/HJ15.dir
+
+build CMakeFiles/HJ15.dir/01Hj/HJ15.cpp.obj: CXX_COMPILER__HJ15_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/01Hj/HJ15.cpp || cmake_object_order_depends_target_HJ15
+  DEP_FILE = CMakeFiles\HJ15.dir\01Hj\HJ15.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ15.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ15.dir\01Hj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ15
+
+
+#############################################
+# Link the executable HJ15.exe
+
+build HJ15.exe: CXX_EXECUTABLE_LINKER__HJ15_Debug CMakeFiles/HJ15.dir/01Hj/HJ15.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = HJ15.exe
+  TARGET_IMPLIB = libHJ15.dll.a
+  TARGET_PDB = HJ15.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -614,6 +878,16 @@ build 011LongLong: phony 011LongLong.exe
 
 build HJ1: phony HJ1.exe
 
+build HJ10: phony HJ10.exe
+
+build HJ11: phony HJ11.exe
+
+build HJ13: phony HJ13.exe
+
+build HJ14: phony HJ14.exe
+
+build HJ15: phony HJ15.exe
+
 build HJ2: phony HJ2.exe
 
 build HJ3: phony HJ3.exe
@@ -623,6 +897,12 @@ build HJ4: phony HJ4.exe
 build HJ5: phony HJ5.exe
 
 build HJ6: phony HJ6.exe
+
+build HJ7: phony HJ7.exe
+
+build HJ8: phony HJ8.exe
+
+build HJ9: phony HJ9.exe
 
 build main: phony main.exe
 
@@ -634,7 +914,7 @@ build main: phony main.exe
 #############################################
 # Folder: D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug
 
-build all: phony main.exe 003A+B3.exe 004A+B4.exe 005A+B5.exe 006A+B6.exe 007A+B7.exe 008StringSort.exe 009StringSort2.exe 010StringSort3.exe 011LongLong.exe HJ1.exe HJ2.exe HJ3.exe HJ4.exe HJ5.exe HJ6.exe
+build all: phony main.exe 003A+B3.exe 004A+B4.exe 005A+B5.exe 006A+B6.exe 007A+B7.exe 008StringSort.exe 009StringSort2.exe 010StringSort3.exe 011LongLong.exe HJ1.exe HJ2.exe HJ3.exe HJ4.exe HJ5.exe HJ6.exe HJ7.exe HJ8.exe HJ9.exe HJ10.exe HJ11.exe HJ13.exe HJ14.exe HJ15.exe
 
 # =============================================================================
 # Built-in targets
