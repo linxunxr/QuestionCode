@@ -1,0 +1,4 @@
+D:\300software\307Jetbrains\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/300software/307Jetbrains/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\200work\2000Code\QuestionCode\2002LeetCode -B D:\200work\2000Code\QuestionCode\2002LeetCode\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/200work/2000Code/QuestionCode/2002LeetCode/cmake-build-debug

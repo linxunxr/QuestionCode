@@ -40,5 +40,14 @@ D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/015FindMod
 D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/016FindChildren.dir
 D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/017EmployeeDispatch.dir
 D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/018Channel.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/001API.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/002Password.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/003Game.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/01TwoSum.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/003LongestStr.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/438FindAnagrams.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/506SubarraySum.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/004.dir
+D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/005.dir
 D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

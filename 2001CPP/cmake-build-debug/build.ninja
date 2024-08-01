@@ -1426,6 +1426,303 @@ build 018Channel.exe: CXX_EXECUTABLE_LINKER__018Channel_Debug CMakeFiles/018Chan
   TARGET_IMPLIB = lib018Channel.dll.a
   TARGET_PDB = 018Channel.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 001API
+
+
+#############################################
+# Order-only phony target for 001API
+
+build cmake_object_order_depends_target_001API: phony || CMakeFiles/001API.dir
+
+build CMakeFiles/001API.dir/03Exam/001API.cpp.obj: CXX_COMPILER__001API_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/03Exam/001API.cpp || cmake_object_order_depends_target_001API
+  DEP_FILE = CMakeFiles\001API.dir\03Exam\001API.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\001API.dir
+  OBJECT_FILE_DIR = CMakeFiles\001API.dir\03Exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 001API
+
+
+#############################################
+# Link the executable 001API.exe
+
+build 001API.exe: CXX_EXECUTABLE_LINKER__001API_Debug CMakeFiles/001API.dir/03Exam/001API.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\001API.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 001API.exe
+  TARGET_IMPLIB = lib001API.dll.a
+  TARGET_PDB = 001API.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 002Password
+
+
+#############################################
+# Order-only phony target for 002Password
+
+build cmake_object_order_depends_target_002Password: phony || CMakeFiles/002Password.dir
+
+build CMakeFiles/002Password.dir/03Exam/002Password.cpp.obj: CXX_COMPILER__002Password_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/03Exam/002Password.cpp || cmake_object_order_depends_target_002Password
+  DEP_FILE = CMakeFiles\002Password.dir\03Exam\002Password.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\002Password.dir
+  OBJECT_FILE_DIR = CMakeFiles\002Password.dir\03Exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 002Password
+
+
+#############################################
+# Link the executable 002Password.exe
+
+build 002Password.exe: CXX_EXECUTABLE_LINKER__002Password_Debug CMakeFiles/002Password.dir/03Exam/002Password.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\002Password.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 002Password.exe
+  TARGET_IMPLIB = lib002Password.dll.a
+  TARGET_PDB = 002Password.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 003Game
+
+
+#############################################
+# Order-only phony target for 003Game
+
+build cmake_object_order_depends_target_003Game: phony || CMakeFiles/003Game.dir
+
+build CMakeFiles/003Game.dir/03Exam/003Game.cpp.obj: CXX_COMPILER__003Game_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/03Exam/003Game.cpp || cmake_object_order_depends_target_003Game
+  DEP_FILE = CMakeFiles\003Game.dir\03Exam\003Game.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\003Game.dir
+  OBJECT_FILE_DIR = CMakeFiles\003Game.dir\03Exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 003Game
+
+
+#############################################
+# Link the executable 003Game.exe
+
+build 003Game.exe: CXX_EXECUTABLE_LINKER__003Game_Debug CMakeFiles/003Game.dir/03Exam/003Game.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\003Game.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 003Game.exe
+  TARGET_IMPLIB = lib003Game.dll.a
+  TARGET_PDB = 003Game.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 01TwoSum
+
+
+#############################################
+# Order-only phony target for 01TwoSum
+
+build cmake_object_order_depends_target_01TwoSum: phony || CMakeFiles/01TwoSum.dir
+
+build CMakeFiles/01TwoSum.dir/04Hot/01Hash/01TwoSum.cpp.obj: CXX_COMPILER__01TwoSum_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/04Hot/01Hash/01TwoSum.cpp || cmake_object_order_depends_target_01TwoSum
+  DEP_FILE = CMakeFiles\01TwoSum.dir\04Hot\01Hash\01TwoSum.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\01TwoSum.dir
+  OBJECT_FILE_DIR = CMakeFiles\01TwoSum.dir\04Hot\01Hash
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 01TwoSum
+
+
+#############################################
+# Link the executable 01TwoSum.exe
+
+build 01TwoSum.exe: CXX_EXECUTABLE_LINKER__01TwoSum_Debug CMakeFiles/01TwoSum.dir/04Hot/01Hash/01TwoSum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\01TwoSum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 01TwoSum.exe
+  TARGET_IMPLIB = lib01TwoSum.dll.a
+  TARGET_PDB = 01TwoSum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 003LongestStr
+
+
+#############################################
+# Order-only phony target for 003LongestStr
+
+build cmake_object_order_depends_target_003LongestStr: phony || CMakeFiles/003LongestStr.dir
+
+build CMakeFiles/003LongestStr.dir/04Hot/003LongestStr.cpp.obj: CXX_COMPILER__003LongestStr_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/04Hot/003LongestStr.cpp || cmake_object_order_depends_target_003LongestStr
+  DEP_FILE = CMakeFiles\003LongestStr.dir\04Hot\003LongestStr.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\003LongestStr.dir
+  OBJECT_FILE_DIR = CMakeFiles\003LongestStr.dir\04Hot
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 003LongestStr
+
+
+#############################################
+# Link the executable 003LongestStr.exe
+
+build 003LongestStr.exe: CXX_EXECUTABLE_LINKER__003LongestStr_Debug CMakeFiles/003LongestStr.dir/04Hot/003LongestStr.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\003LongestStr.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 003LongestStr.exe
+  TARGET_IMPLIB = lib003LongestStr.dll.a
+  TARGET_PDB = 003LongestStr.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 438FindAnagrams
+
+
+#############################################
+# Order-only phony target for 438FindAnagrams
+
+build cmake_object_order_depends_target_438FindAnagrams: phony || CMakeFiles/438FindAnagrams.dir
+
+build CMakeFiles/438FindAnagrams.dir/04Hot/438FindAnagrams.cpp.obj: CXX_COMPILER__438FindAnagrams_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/04Hot/438FindAnagrams.cpp || cmake_object_order_depends_target_438FindAnagrams
+  DEP_FILE = CMakeFiles\438FindAnagrams.dir\04Hot\438FindAnagrams.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\438FindAnagrams.dir
+  OBJECT_FILE_DIR = CMakeFiles\438FindAnagrams.dir\04Hot
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 438FindAnagrams
+
+
+#############################################
+# Link the executable 438FindAnagrams.exe
+
+build 438FindAnagrams.exe: CXX_EXECUTABLE_LINKER__438FindAnagrams_Debug CMakeFiles/438FindAnagrams.dir/04Hot/438FindAnagrams.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\438FindAnagrams.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 438FindAnagrams.exe
+  TARGET_IMPLIB = lib438FindAnagrams.dll.a
+  TARGET_PDB = 438FindAnagrams.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 506SubarraySum
+
+
+#############################################
+# Order-only phony target for 506SubarraySum
+
+build cmake_object_order_depends_target_506SubarraySum: phony || CMakeFiles/506SubarraySum.dir
+
+build CMakeFiles/506SubarraySum.dir/04Hot/506SubarraySum.cpp.obj: CXX_COMPILER__506SubarraySum_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/04Hot/506SubarraySum.cpp || cmake_object_order_depends_target_506SubarraySum
+  DEP_FILE = CMakeFiles\506SubarraySum.dir\04Hot\506SubarraySum.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\506SubarraySum.dir
+  OBJECT_FILE_DIR = CMakeFiles\506SubarraySum.dir\04Hot
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 506SubarraySum
+
+
+#############################################
+# Link the executable 506SubarraySum.exe
+
+build 506SubarraySum.exe: CXX_EXECUTABLE_LINKER__506SubarraySum_Debug CMakeFiles/506SubarraySum.dir/04Hot/506SubarraySum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\506SubarraySum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 506SubarraySum.exe
+  TARGET_IMPLIB = lib506SubarraySum.dll.a
+  TARGET_PDB = 506SubarraySum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 004
+
+
+#############################################
+# Order-only phony target for 004
+
+build cmake_object_order_depends_target_004: phony || CMakeFiles/004.dir
+
+build CMakeFiles/004.dir/03Exam/004.cpp.obj: CXX_COMPILER__004_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/03Exam/004.cpp || cmake_object_order_depends_target_004
+  DEP_FILE = CMakeFiles\004.dir\03Exam\004.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\004.dir
+  OBJECT_FILE_DIR = CMakeFiles\004.dir\03Exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 004
+
+
+#############################################
+# Link the executable 004.exe
+
+build 004.exe: CXX_EXECUTABLE_LINKER__004_Debug CMakeFiles/004.dir/03Exam/004.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\004.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 004.exe
+  TARGET_IMPLIB = lib004.dll.a
+  TARGET_PDB = 004.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 005
+
+
+#############################################
+# Order-only phony target for 005
+
+build cmake_object_order_depends_target_005: phony || CMakeFiles/005.dir
+
+build CMakeFiles/005.dir/03Exam/005.cpp.obj: CXX_COMPILER__005_unscanned_Debug D$:/200work/2000Code/QuestionCode/2001CPP/03Exam/005.cpp || cmake_object_order_depends_target_005
+  DEP_FILE = CMakeFiles\005.dir\03Exam\005.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\005.dir
+  OBJECT_FILE_DIR = CMakeFiles\005.dir\03Exam
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 005
+
+
+#############################################
+# Link the executable 005.exe
+
+build 005.exe: CXX_EXECUTABLE_LINKER__005_Debug CMakeFiles/005.dir/03Exam/005.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\005.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 005.exe
+  TARGET_IMPLIB = lib005.dll.a
+  TARGET_PDB = 005.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1452,17 +1749,29 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build 001API: phony 001API.exe
+
 build 001PakringLot: phony 001PakringLot.exe
 
 build 002EnglishInput: phony 002EnglishInput.exe
+
+build 002Password: phony 002Password.exe
 
 build 003A+B3: phony 003A+B3.exe
 
 build 003APIColony: phony 003APIColony.exe
 
+build 003Game: phony 003Game.exe
+
+build 003LongestStr: phony 003LongestStr.exe
+
+build 004: phony 004.exe
+
 build 004A+B4: phony 004A+B4.exe
 
 build 004LongMathExp: phony 004LongMathExp.exe
+
+build 005: phony 005.exe
 
 build 005A+B5: phony 005A+B5.exe
 
@@ -1506,6 +1815,12 @@ build 017EmployeeDispatch: phony 017EmployeeDispatch.exe
 
 build 018Channel: phony 018Channel.exe
 
+build 01TwoSum: phony 01TwoSum.exe
+
+build 438FindAnagrams: phony 438FindAnagrams.exe
+
+build 506SubarraySum: phony 506SubarraySum.exe
+
 build HJ1: phony HJ1.exe
 
 build HJ10: phony HJ10.exe
@@ -1544,7 +1859,7 @@ build main: phony main.exe
 #############################################
 # Folder: D:/200work/2000Code/QuestionCode/2001CPP/cmake-build-debug
 
-build all: phony main.exe 003A+B3.exe 004A+B4.exe 005A+B5.exe 006A+B6.exe 007A+B7.exe 008StringSort.exe 009StringSort2.exe 010StringSort3.exe 011LongLong.exe HJ1.exe HJ2.exe HJ3.exe HJ4.exe HJ5.exe HJ6.exe HJ7.exe HJ8.exe HJ9.exe HJ10.exe HJ11.exe HJ13.exe HJ14.exe HJ15.exe 001PakringLot.exe 002EnglishInput.exe 003APIColony.exe 004LongMathExp.exe 005OpenSource.exe 006VirtualFinance.exe 007UniversalWords.exe 008NearHeight.exe 009NucleicAcidTest.exe 010GreedySinger.exe 011SimpleMemory.exe 012Gemstone.exe 013GameGroup.exe 014PerformTasks.exe 015FindMode.exe 016FindChildren.exe 017EmployeeDispatch.exe 018Channel.exe
+build all: phony main.exe 003A+B3.exe 004A+B4.exe 005A+B5.exe 006A+B6.exe 007A+B7.exe 008StringSort.exe 009StringSort2.exe 010StringSort3.exe 011LongLong.exe HJ1.exe HJ2.exe HJ3.exe HJ4.exe HJ5.exe HJ6.exe HJ7.exe HJ8.exe HJ9.exe HJ10.exe HJ11.exe HJ13.exe HJ14.exe HJ15.exe 001PakringLot.exe 002EnglishInput.exe 003APIColony.exe 004LongMathExp.exe 005OpenSource.exe 006VirtualFinance.exe 007UniversalWords.exe 008NearHeight.exe 009NucleicAcidTest.exe 010GreedySinger.exe 011SimpleMemory.exe 012Gemstone.exe 013GameGroup.exe 014PerformTasks.exe 015FindMode.exe 016FindChildren.exe 017EmployeeDispatch.exe 018Channel.exe 001API.exe 002Password.exe 003Game.exe 01TwoSum.exe 003LongestStr.exe 438FindAnagrams.exe 506SubarraySum.exe 004.exe 005.exe
 
 # =============================================================================
 # Built-in targets

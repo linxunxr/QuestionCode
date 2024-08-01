@@ -56,7 +56,16 @@
 						38,
 						39,
 						40,
-						41
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
 					]
 				}
 			],
@@ -112,12 +121,28 @@
 						38,
 						39,
 						40,
-						41
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "001API::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001API-Debug-83984d304cb62b6c544a.json",
+					"name" : "001API",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "001PakringLot::@6890427a1f51a3e7e1df",
@@ -130,6 +155,13 @@
 					"id" : "002EnglishInput::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-002EnglishInput-Debug-4d5ae26c75cf23d62fcc.json",
 					"name" : "002EnglishInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002Password::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002Password-Debug-48b4634178bea3b93e3e.json",
+					"name" : "002Password",
 					"projectIndex" : 0
 				},
 				{
@@ -148,6 +180,27 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "003Game::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-003Game-Debug-e7cc67120bddaab15553.json",
+					"name" : "003Game",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "003LongestStr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-003LongestStr-Debug-9177b1d33fa2cdab877c.json",
+					"name" : "003LongestStr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "004::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-004-Debug-be58e55d2596427f1cdc.json",
+					"name" : "004",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "004A+B4::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-004A+B4-Debug-8b0277ce7511793af966.json",
 					"name" : "004A+B4",
@@ -158,6 +211,13 @@
 					"id" : "004LongMathExp::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-004LongMathExp-Debug-baf58a6c05fad84261bd.json",
 					"name" : "004LongMathExp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "005::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-005-Debug-c76cd29b0d5790ff076a.json",
+					"name" : "005",
 					"projectIndex" : 0
 				},
 				{
@@ -305,6 +365,27 @@
 					"id" : "018Channel::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-018Channel-Debug-ec096dfc8ed42ece310d.json",
 					"name" : "018Channel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01TwoSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01TwoSum-Debug-549c85b7ced943e2f5a0.json",
+					"name" : "01TwoSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "438FindAnagrams::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-438FindAnagrams-Debug-0d6b41b247eb39ad6df4.json",
+					"name" : "438FindAnagrams",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "506SubarraySum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-506SubarraySum-Debug-b218535728207675a8d6.json",
+					"name" : "506SubarraySum",
 					"projectIndex" : 0
 				},
 				{
